@@ -1,4 +1,4 @@
-from node:9.4.0
+from node:10.12.0
 
 MAINTAINER Bruno de Castro Oliveira
 
